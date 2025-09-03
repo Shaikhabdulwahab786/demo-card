@@ -2,7 +2,7 @@ export const productData = [{
   id: 1,
   name: "Hedamo Organic Honey",
   shortDescription: "Pure wild honey harvested from organic farms",
-  image: "/src/assets/honey-jar.jpg",
+  image: "/images/honey-jar.jpg",
   category: "Food",
   price: "$24.99",
   rating: 4.8,
